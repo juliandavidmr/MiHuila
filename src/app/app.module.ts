@@ -9,7 +9,6 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { TabsPage } from '../pages/tabs/tabs';
 import { AboutPage } from '../pages/about/about';
 import { ContactPage } from '../pages/contact/contact';
-import { HomePage } from '../pages/home/home';
 import { SitiosPage } from "../pages/sitios/sitios";
 import { SitioDetallePage } from "../pages/sitio-detalle/sitio-detalle";
 import { DestacadosPage } from "../pages/destacados/destacados";
@@ -20,7 +19,6 @@ import { MapsPage } from "../pages/maps/maps";
     MyApp,
     AboutPage,
     ContactPage,
-    HomePage,
     TabsPage,
     SitiosPage,
     SitioDetallePage,
@@ -36,7 +34,6 @@ import { MapsPage } from "../pages/maps/maps";
     MyApp,
     AboutPage,
     ContactPage,
-    HomePage,
     TabsPage,
     SitiosPage,
     SitioDetallePage,

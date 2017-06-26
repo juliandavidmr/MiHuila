@@ -1,13 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
 import L from 'leaflet';
-import moment from 'moment';
-/**
- * Generated class for the MapsPage page.
- *
- * See http://ionicframework.com/docs/components/#navigation for more info
- * on Ionic pages and navigation.
- */
+
 @Component({
   selector: 'page-maps',
   templateUrl: 'maps.html',
